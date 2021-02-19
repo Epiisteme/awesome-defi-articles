@@ -9,3 +9,6 @@ Awesome Archives of DeFI Articles
 
 ## How Liquidity Pools Address the DEX Challenges
 - https://block-chain.info/news/what-are-liquidity-pools-and-how-did-they-solve-the-main-dex-problem
+
+## Summary of DEX Landscape
+- https://www.gemini.com/cryptopedia/decentralized-exchange-dex-crypto
